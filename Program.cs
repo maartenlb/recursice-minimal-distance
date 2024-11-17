@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Air_Traffic_Divide_and_Conquer
+namespace Points_Divide_and_Conquer
 {
     class Program
     {
