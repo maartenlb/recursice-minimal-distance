@@ -32,7 +32,7 @@ This program implements the **Divide and Conquer** approach to solve the Closest
 - **Efficient Comparisons in Merge**:
   - The strip is processed in O(n) because the number of relevant comparisons is bounded by a constant for each point.
 
-### Why It’s Faster Than O(n^2)
+### Why It’s Faster Than $$O(n^2)$$
 - The naive brute-force approach involves comparing every point to every other point, resulting in O(n^2) comparisons.
 - By dividing the problem and only merging a small subset of points, the divide-and-conquer algorithm dramatically reduces unnecessary comparisons, achieving O(n log n).
 
