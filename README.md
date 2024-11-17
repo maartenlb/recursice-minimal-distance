@@ -72,9 +72,20 @@ This adaptability makes the algorithm highly versatile for practical application
 ## Usage
 1. **Input**:  
    - Provide a list of 2D coordinates (e.g., from a file or directly in the code).
+   ```bash
+   10 // 10 points
+   32 31 // first point
+   76 18
+   85 59
+   65 87
+   37 49
+   84 71
+   10 90
+   13 56
+   12 53
+   103 5
 
 2. **Execution**:  
    - Compile and run the program using a C# compiler or IDE.
 
-   ```bash
-   dotnet run
+
