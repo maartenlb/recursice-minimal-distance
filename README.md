@@ -42,7 +42,7 @@ This program implements the **Divide and Conquer** approach to solve the Closest
 
 The divide-and-conquer approach can be extended to 3D or higher-dimensional spaces with minimal modifications:
 
-### Key Adjustments
+### Adjustments
 1. **Sorting**:
    - Instead of sorting only by the x-coordinate, sort by one of the coordinates (e.g., x) as the primary axis.
    - Use additional coordinate data (e.g., y, z for 3D) during the merge step.
