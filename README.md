@@ -1,4 +1,4 @@
-# Closest Pair of Points Calculator
+# Recursive Closest Pair of Points
 
 ## Overview
 This C# program reads a list of coordinates and calculates the two points with the minimum distance between them. The algorithm is implemented recursively to achieve an **O(n log n)** time complexity, making it suitable for real-world applications where performance is critical. A naive comparison algorithm with **O(n²)** complexity would be too slow for large datasets.
